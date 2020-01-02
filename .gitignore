@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+Pipfile
+bs42xlwings.xlsm
+ghostdriver.log
+html/
+venv/
